@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Command Session_04_Challange</Text>
+    <Description>Some description for Session_04_Challange</Description>
+    <Assembly>Session_04_Challange.dll</Assembly>
+    <FullClassName>Session_04_Challange.Command</FullClassName>
+    <ClientId>95ac0166-72c4-4bcd-bae3-a150e737ddac</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>Application Session_04_Challange</Name>
+    <Assembly>Session_04_Challange.dll</Assembly>
+    <FullClassName>Session_04_Challange.App</FullClassName>
+    <ClientId>6a6f37d1-8ddf-4d50-a604-9af475a54672</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
